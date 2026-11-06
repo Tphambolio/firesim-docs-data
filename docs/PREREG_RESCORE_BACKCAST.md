@@ -142,6 +142,7 @@ Changes under 1-5 and 8 update `docs/PROJECT_RECORD.md` §4.4, `docs/validation.
 - **Seen on 2014b:** every record number in the table of §4 (`docs/validation.md`,
   `PROJECT_RECORD.md` §4.4), the [R27] / [R43] / [R44] comparator results (AB 2025 masked and
   unmasked, CFS 2026, open-data grids) and their per-fire-day F1 at 17 h and 8 h.
+  *[Correction 2026-11-06: the CFS 2026 arms ran code 13 ('no effective FBP match') as D-1. Code 13 is 9.0% of fuel cells / 23.0% of observed-burned cells (unmasked) and 6.4% / 6.8% (masked) in the 32 domains. The registered result stands as scored; its sensitivity to this is being measured in a separately labelled post-hoc run [R77].]*
 - **Prior expectation (judgement):** the back-cast's area bias was no smaller than 2014b's in
   #79 (+0.26 vs +0.25), so the over-prediction conclusions are not expected to change much.
 - **Not part of this test:** suppression. A separate agent is compiling suppression history per

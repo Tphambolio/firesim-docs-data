@@ -10,6 +10,12 @@ to the code repository's history.
 One change after copying: `docs/privacy.md` names this repository (not the code repository) as
 where feedback issues are opened, from 2026-11-06.
 
+Second change after copying (2026-11-06): a dated correction note was added after line 144 of
+`docs/PREREG_RESCORE_BACKCAST.md`, next to the mention of the CFS 2026 comparator results (it says the CFS 2026
+arms ran fuel code 13 as D-1, with the share of cells affected, and that the registered result stands as scored).
+Nothing else in that file changed. `docs/validation.md`, `docs/validation-scorecard.md` and the scorecard JSON report
+only CFS 2014b results and were not changed.
+
 Relative links inside these documents that point to code, scripts or documents not copied here
 (for example `../scripts/...` or `PROJECT_RECORD.md`) do not resolve in this repository.
 
