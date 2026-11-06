@@ -34,7 +34,7 @@ weather, fuel or any setup value, saved-run passphrases, and nothing the user ty
 ## Feedback
 
 The top-bar **Feedback** button opens a dialog: "Was this useful today?" 1-5, an optional note,
-and **Open a GitHub issue** (a new issue on `Tphambolio/wildfire-simulator`, label `feedback`,
+and **Open a GitHub issue** (a new issue on the public `Tphambolio/firesim-docs-data`, label `feedback`,
 prefilled with the tab, build, exercise-mode on/off, the rating and the note). An **Email**
 option appears only when the build sets `VITE_FIRESIM_FEEDBACK_EMAIL`. Nothing is posted until
 the user submits the issue or sends the e-mail themselves. The rating is counted only with the

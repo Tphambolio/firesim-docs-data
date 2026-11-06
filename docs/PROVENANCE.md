@@ -7,6 +7,9 @@ code repository was prepared to become private. The dates below are the original
 it, so the pre-registration timestamps (`PREREG_*.md`) stay on public record. Commit hashes refer
 to the code repository's history.
 
+One change after copying: `docs/privacy.md` names this repository (not the code repository) as
+where feedback issues are opened, from 2026-11-06.
+
 Relative links inside these documents that point to code, scripts or documents not copied here
 (for example `../scripts/...` or `PROJECT_RECORD.md`) do not resolve in this repository.
 
